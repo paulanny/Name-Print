@@ -1,6 +1,7 @@
-const Name = "Animashaun Paul Oluwaseyi"
-const height = 67
-const country = "Nigeria"
+const Name = " My Name Animashaun Paul Oluwaseyi"
+const height = "I am 5ft tall"
+const country = "I am from Nigeria"
 
-console.log(Name +" " + height +" " + country);
-
+alert(Name); 
+alert(height);
+alert(country); 
